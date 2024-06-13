@@ -5,6 +5,7 @@ body {
     background-color: #e6e6e6;
 }
 
+
 #myUL li {
     padding: 20px;
     margin-bottom: 20px;
@@ -115,6 +116,7 @@ ul li.checked {
     max-width: 1500px;
     margin: auto;
     height: 100%;
+    justify-content: center;
 }
 
 /* Clear floats after the header */

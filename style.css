@@ -23,6 +23,7 @@ body {
     cursor: pointer;
     border-radius: 100%;
     color: black;
+    background-color: rgb(229, 229, 229);
 }
 
 #myUL li .tick-icon {
